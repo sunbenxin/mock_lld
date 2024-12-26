@@ -1,0 +1,41 @@
+{
+	"compiler": {
+		"version": "0.6.8+commit.f8ac1157"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Library for managing https://en.wikipedia.org/wiki/Set_(abstract_data_type)[sets] of primitive types. * Sets have the following properties: * - Elements are added, removed, and checked for existence in constant time (O(1)). - Elements are enumerated in O(n). No guarantees are made on the ordering. * ``` contract Example {    // Add the library methods    using EnumerableSet for EnumerableSet.AddressSet; *     // Declare a set state variable    EnumerableSet.AddressSet private mySet; } ``` * As of v3.0.0, only sets of type `address` (`AddressSet`) and `uint256` (`UintSet`) are supported.",
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"liberland/tron/contracts/MetaCoin.sol": "EnumerableSet"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"liberland/tron/contracts/MetaCoin.sol": {
+			"keccak256": "0x9b304ceffcddcda7072ff56cef5e108b0946e6ad6df6c5d4198ee3a9f14e73e6",
+			"urls": [
+				"bzz-raw://1127eb7b97367fd274c7cbb1a70f71e0c43ca11880e7cfd7aa6019ee4b89dd70",
+				"dweb:/ipfs/QmaNPMSJK1hB9EKEbtKASddBmCd2TeRqaCV7x9sRaUw39W"
+			]
+		}
+	},
+	"version": 1
+}

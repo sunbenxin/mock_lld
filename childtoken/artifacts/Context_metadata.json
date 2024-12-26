@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"liberland/childtoken/lld_e.sol": "Context"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"liberland/childtoken/lld_e.sol": {
+			"keccak256": "0x9f8a32fee6a06ed117d5146910f0c669131cd6cac0a7e30e2e2627b4506f94d1",
+			"urls": [
+				"bzz-raw://cc27b5b1c3d34186b389318650bf401b949cc594f80310c5eb1a641b17cf7c81",
+				"dweb:/ipfs/QmQdqyAVoa9vH5NUfD9a1FtqQUaH9oX52L6BSAo9brcpyu"
+			]
+		}
+	},
+	"version": 1
+}
