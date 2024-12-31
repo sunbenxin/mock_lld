@@ -1404,6 +1404,7 @@ contract ChildERC20 is
     bytes32 public constant DEPOSITOR_ROLE = keccak256("DEPOSITOR_ROLE");
     event SwapIn(address indexed sender, uint256 value);
     event SwapOut(address indexed sender, uint256 value);
+    event SwapOut(address indexed sender);
 
     address public immutable originToken;
 
